@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aysuri-0807
+- 👋 Hi, I’m Andy!
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning PyTorch - Computer Vision software
 
